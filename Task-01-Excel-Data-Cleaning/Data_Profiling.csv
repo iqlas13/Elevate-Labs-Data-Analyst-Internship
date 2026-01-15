@@ -1,0 +1,7 @@
+﻿Field,Reason
+EmpID,Primary unique identifier
+EmployeeNumber,System-generated ID
+Name (if present),Not reliable alone
+Observation,Duplicate EmpID values detected – further validation required before removal
+,Confirmed true duplicate EmpID records; safe to remove redundant rows after backup.
+,True duplicate EmpID records removed from Raw_Data after validation and backup.
