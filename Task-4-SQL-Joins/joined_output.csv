@@ -1,0 +1,5 @@
+customer_id,customer_name,region,order_id,order_date,quantity
+1,"Aisha Khan",South,1,2024-01-10,1
+1,"Aisha Khan",South,2,2024-01-15,2
+2,"Rahul Verma",North,3,2024-02-05,3
+3,"Neha Sharma",East,4,2024-02-20,1

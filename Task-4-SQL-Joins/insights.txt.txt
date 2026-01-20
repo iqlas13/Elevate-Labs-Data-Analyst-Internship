@@ -1,0 +1,5 @@
+1. Customers from the South region generated the highest number of orders, indicating strong demand in this region.
+
+2. Electronics category contributes the highest revenue among all categories, making it the most profitable segment.
+
+3. One customer has not placed any orders, highlighting an opportunity for customer re-engagement or targeted marketing.
