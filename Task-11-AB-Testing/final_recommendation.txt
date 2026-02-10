@@ -1,0 +1,5 @@
+An A/B test was conducted to compare conversion rates between users shown ads and users shown PSAs.
+The test group (ad) showed a higher conversion rate than the control group (psa).
+Since the p-value was below 0.05, the result is statistically significant.
+It is recommended to proceed with the ad campaign.
+
