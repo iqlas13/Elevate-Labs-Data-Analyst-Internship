@@ -1,0 +1,9 @@
+Dataset: Students Performance in Exams
+
+1. Dataset contains 1000 rows and 8 columns.
+2. No missing values were found in the dataset.
+3. Descriptive statistics show exam scores range from 0 to 100.
+4. Outliers were detected using the IQR method.
+5. Outliers were retained because they represent genuine student performance.
+6. Strong positive correlation observed between reading and writing scores.
+7. Cleaned dataset exported successfully.
