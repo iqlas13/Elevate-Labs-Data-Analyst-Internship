@@ -1,0 +1,44 @@
+Transformation Notes – Power BI (Task 12)
+
+Dataset Used:
+HR Analytics Dataset (CSV file)
+
+Objective:
+To clean, transform, and prepare HR data using Power Query before creating visuals in Power BI.
+
+Steps Performed:
+
+1. Data Import
+- Imported HR_Analytics.csv into Power BI using Get Data → Text/CSV.
+- Opened Power Query Editor to perform transformations.
+
+2. Header & Column Cleaning
+- Promoted the first row as column headers.
+- Removed unnecessary columns: EmployeeCount, StandardHours, Over18, EmployeeNumber.
+- Renamed column SalarySlab to Salary Band.
+
+3. Missing Values
+- Checked for missing or null values in important columns.
+- No critical missing values affecting analysis were found.
+
+4. Data Type Changes
+- Numeric fields such as Age, MonthlyIncome, YearsAtCompany were set to Whole Number.
+- Categorical fields such as Department, Attrition, Gender, AgeGroup, Salary Band were set to Text.
+
+5. Conditional Columns
+- Created AgeGroup column with ranges: 18–25, 26–35, 36–45, 46+.
+- Created Salary Band column based on Monthly Income ranges.
+
+6. Apply Changes
+- Applied all transformations using Close & Apply.
+
+7. Visuals Created
+- Stacked Bar Chart: Attrition by Department.
+- Column Chart: Employees by Age Group.
+- Pie Chart: Salary Band Distribution.
+
+Outcome:
+The HR dataset was successfully transformed and visualized to provide insights into attrition, age distribution, and salary structure.
+
+Tool Used:
+Power BI Desktop
