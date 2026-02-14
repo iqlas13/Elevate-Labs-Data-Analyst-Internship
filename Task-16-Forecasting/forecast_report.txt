@@ -1,0 +1,13 @@
+
+Dataset: Store Item Demand Forecasting (train.csv)
+
+Method Used: Exponential Smoothing
+
+Train/Test Split: 80% train, 20% test (time-based)
+
+Error Metrics:
+MAE: 179305.41024846435
+MAPE: 23.380244962110805 %
+
+Conclusion:
+The model captures the overall trend in sales reasonably well. However, it may not fully capture seasonal spikes, so accuracy can be improved using seasonal models.
